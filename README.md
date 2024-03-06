@@ -1,2 +1,2 @@
-# Coybup
+# COyBUP
 Conocimiento y buenas prácticas
